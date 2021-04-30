@@ -1,0 +1,9 @@
+name: "Caroline's weebsite"
+output_dir: "."
+navbar:
+  title: "Caroline's weebsite"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
